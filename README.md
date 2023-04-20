@@ -4,9 +4,9 @@ This project is a complete question and answer system that uses pre-trained BERT
 
 The input of this project is a question, and the exact answer to that question is found and returned through the following steps:
 
-1- Finding the document related to the user's question
+1- Finding the document(s) related to the user's question
 
-2- Finding the paragraph related to the user's question
+2- Finding the paragraph(s) related to the user's question
 
 3- Finding the exact answer from the selected paragraph using Machine Reading Comprehension
 
