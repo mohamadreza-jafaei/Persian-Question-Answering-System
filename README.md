@@ -9,8 +9,14 @@ The input of this project is a question, and the exact answer to that question i
 ## Requirements
 
 Python 3.6 or higher
+
 PyTorch 1.7 or higher
+
 transformers 4.2.2 or higher
+
 scikit-learn 0.24.2 or higher
+
 pandas 1.1.5 or higher
+
 tqdm 4.59.0 or higher
+
